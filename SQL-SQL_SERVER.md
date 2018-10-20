@@ -1,5 +1,10 @@
 # Transact-SQL (Microsoft)
 
+## Artigos Importantes
+
+- [https://social.technet.microsoft.com/wiki/pt-br/contents/articles/51485.sql-server-como-definir-o-tamanho-maximo-de-colunas-de-tamanho-variavel.aspx](https://social.technet.microsoft.com/wiki/pt-br/contents/articles/51485.sql-server-como-definir-o-tamanho-maximo-de-colunas-de-tamanho-variavel.aspx).
+- [https://medium.com/@alexandre.malavasi/25-dicas-e-boas-pr%C3%A1ticas-de-banco-de-dados-para-desenvolvedores-7a60bfc28f1f](https://medium.com/@alexandre.malavasi/25-dicas-e-boas-pr%C3%A1ticas-de-banco-de-dados-para-desenvolvedores-7a60bfc28f1f).
+
 ## Conceitos
 
 ### Banco de Dados
@@ -56,7 +61,19 @@ Sobre o nome do schema:
 
 
 
+##### Reiniciar Chave de Identidade
 
+
+DBCC CHECKIDENT ([NomeTabela], RESEED, NumeroBase);
+
+NomeTabela - Nome da tabela com o campo de identidade, deve estar entre colchetes.
+
+NumeroBase - Número anterior ao próximo valor desejado.
+
+Ex.:
+
+DBCC CHECKIDENT ([usuario.Usuario], RESEED, 2);
+Reatribui o campo de identidade da tabela Usuário (dentro do schema usuario), o próximo registro terá o valor de 3.
 
 ## Regras Adicionais
 
