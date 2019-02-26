@@ -1,8 +1,9 @@
 # Técnicas Digitais I - Prática
 
-## Bases Numéricas
+## Aula 19/02/19
+### Bases Numéricas
 
-### Sistema Binário
+#### Sistema Binário
 
 * 0 e 1;
 
@@ -19,7 +20,7 @@ Formação Base 2:
 * 7(D) = 0111(B)
 * 0101(B) = 5(D)
 
-### Sistema Decimal
+#### Sistema Decimal
 
 * 0, 1, 2, 3, 4, 5, 6, 7, 8 e 9;
 
@@ -34,7 +35,7 @@ Formação Base 10:
                        ────
                        1238
 
-### Conversão de Decimal para Binário
+#### Conversão de Decimal para Binário
 
 * Divisões sucessivas
 
@@ -100,7 +101,7 @@ Conferindo:
 
 Logo, 10011010110(B) = 1238(D).
 
-#### Transforme em Binário:
+##### Transforme em Binário:
 
 * 501(D) = ?(B)
 * 78(D) = ?(B)
@@ -158,7 +159,7 @@ Resolução:
 * 78(D) = 1001110(B)
 * 93(D) = 1011101(B)
 
-#### Transforme em Decimal
+##### Transforme em Decimal
 
 * 10110(B) = ?(D)
 * 1111(B) = ?(D)
@@ -176,7 +177,7 @@ Resolução:
 * 1111(B) = 15(D)
 * 1001(B) = 9(D)
 
-### Sistema Hexadecimal
+#### Sistema Hexadecimal
 
 * 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E e F;
 * A = 10, B = 11, C = 12, D = 13, E = 14, F = 15;
@@ -202,7 +203,7 @@ Formação Base 16:
                                ───
                                17 (D)
 
-#### Conversão de Decimal para Hexadecimal
+##### Conversão de Decimal para Hexadecimal
 
 * Divisões sucessivas por 16, de forma semelhante a conversão de decimal para binário;
 
