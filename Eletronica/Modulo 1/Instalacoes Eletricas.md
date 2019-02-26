@@ -20,6 +20,17 @@ Fios que entram em uma residência:
 
 ### Sistemas Elétricos
 
+* Produção:
+![itaipu-binacional](https://user-images.githubusercontent.com/9437498/53415768-d0b41180-39b0-11e9-9013-31bb110f87bb.jpg)
+
+* Transmissão:
+![linhas-620x330](https://user-images.githubusercontent.com/9437498/53415245-7f575280-39af-11e9-8a00-586cb020d62b.jpg)
+
+* Distribuição:
+![rede_distribuicao_baixa](https://user-images.githubusercontent.com/9437498/53415829-f214fd80-39b0-11e9-93e7-ee54982d5cfc.jpg)
+
+* Sistema Integral: 
+![rede_distribuicao_energia](https://user-images.githubusercontent.com/9437498/53415745-c09c3200-39b0-11e9-93b4-4cbf93e12387.jpg)
 
 ### Tipos de Geração Elétrica
 
